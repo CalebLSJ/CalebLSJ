@@ -10,7 +10,7 @@ C++,
 SQL,
 JavaScript,
 TypeScript,
-$\Latex$
+$\LaTeX$
 
 [![CalebLSJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalebLSJ)](https://github.com/anuraghazra/github-readme-stats)
 
