@@ -12,7 +12,7 @@ JavaScript,
 TypeScript,
 $\LaTeX$
 
-[![CalebLSJ's GitHub stats](https://github-readme-stats-dusky-iota.vercel.app/api?username=CalebLSJ&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![CalebLSJ's GitHub stats](https://github-readme-stats-dusky-iota.vercel.app/api?username=CalebLSJ&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **CalebLSJ/CalebLSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
