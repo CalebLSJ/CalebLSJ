@@ -3,13 +3,14 @@
 I am a high school student. 
 
 Languages I've coded in:
-Python
-Java
-Kotlin
-C++
-SQL
-JavaScript
-TypeScript
+Python,
+Java,
+Kotlin,
+C++,
+SQL,
+JavaScript,
+TypeScript,
+$\Latex$
 
 [![CalebLSJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalebLSJ)](https://github.com/anuraghazra/github-readme-stats)
 
