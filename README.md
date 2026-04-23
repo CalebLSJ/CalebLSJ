@@ -1,6 +1,6 @@
 ## Hi there
 
-I am a high school student. 
+I am a high school student, class of 2028
 
 Languages I've coded in:
 Python,
@@ -11,6 +11,8 @@ SQL,
 JavaScript,
 TypeScript,
 $\LaTeX$
+
+Relationship status: Single (duh)
 
 [![CalebLSJ's GitHub stats](https://github-readme-stats-dusky-iota.vercel.app/api?username=CalebLSJ&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
