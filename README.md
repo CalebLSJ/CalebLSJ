@@ -12,7 +12,7 @@ JavaScript,
 TypeScript,
 $\LaTeX$
 
-Relationship status: <details> single (duh) </details>
+<details> <summary> Relationship status: </summary> single (duh) </details>
 
 I also have a severe caffeine addiction
 
