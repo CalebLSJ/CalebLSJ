@@ -16,7 +16,7 @@ Relationship status: Single (duh)
 
 I also have a severe caffeine addiction
 
-[![CalebLSJ's GitHub stats](https://github-readme-stats-dusky-iota.vercel.app/api?username=CalebLSJ&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![CalebLSJ's GitHub stats](https://github-readme-stats-dusky-iota.vercel.app/api?username=CalebLSJ&count_private=true&theme=cobalt&cache_seconds=0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **CalebLSJ/CalebLSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
