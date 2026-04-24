@@ -17,6 +17,7 @@ $\LaTeX$
 <details> <summary> Fun fact about me: </summary>I have a really bad caffeine addiction lmao </details>
 
 [![CalebLSJ's GitHub stats](https://github-readme-stats-dusky-iota.vercel.app/api?username=CalebLSJ&count_private=true&theme=cobalt&cache_seconds=0)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CalebLSJ&fire=EB3232&ring=EB3232&currStreakLabel=EB3232)](https://git.io/streak-stats)
 
 <!--
 **CalebLSJ/CalebLSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
