@@ -12,6 +12,8 @@ JavaScript,
 TypeScript,
 $\LaTeX$
 
+I'm mostly a solo developer, and my repos are usually private. 
+
 <details> <summary> Relationship status: </summary> single (duh) </details>
 
 <details> <summary> Fun fact about me: </summary>I have a really bad caffeine addiction lmao </details>
