@@ -14,10 +14,6 @@ $\LaTeX$
 
 I'm mostly a solo developer, and my repos are usually private. 
 
-<details> <summary> Relationship status: </summary> single (duh) </details>
-
-<details> <summary> Fun fact about me: </summary>I have a really bad caffeine addiction lmao </details>
-
 [![CalebLSJ's GitHub stats](https://github-readme-stats-dusky-iota.vercel.app/api?username=CalebLSJ&count_private=true&theme=cobalt&cache_seconds=0)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=CalebLSJ&theme=dark)](https://git.io/streak-stats)
 
 <!--
